@@ -4,7 +4,7 @@
 
 ![alt text][profile]
 
-[Personal Blog](https://amerlin.keantex.com)
+[Personal Blog](https://amerlin.keantex.com)  
 [GitHub Project](https://github.com/amerlin)
 
 
