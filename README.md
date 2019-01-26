@@ -1,6 +1,7 @@
 # amerlin.github.io
 
 ## About me
+.Net Developer, Senior Consultant, Trainer, Val Borbera lovers
 
 ![alt text][profile]
 
