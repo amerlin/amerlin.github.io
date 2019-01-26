@@ -1,9 +1,10 @@
 # amerlin.github.io
 
 ## About me
-.Net Developer, Senior Consultant, Trainer, Val Borbera lovers
 
 ![alt text][profile]
+
+.Net Developer, Senior Consultant, Trainer, Val Borbera lovers
 
 [Personal Blog](https://amerlin.keantex.com)
 
